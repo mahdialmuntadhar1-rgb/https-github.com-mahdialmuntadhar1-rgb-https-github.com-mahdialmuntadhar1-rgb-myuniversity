@@ -1,0 +1,6 @@
+{
+  "name": "studentHUB Visual Lab",
+  "description": "Multi-variant visual playground and layout design comparison lab with 5 distinct selectable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
